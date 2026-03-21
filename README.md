@@ -7,4 +7,4 @@
     <div align="center">
     ・———— ・ ✦✦ ・———— ・
         
-    [strawpage](https://mrskent.straw.page/)     [pronouns page](https://pronouns.cc/@loveforvinnie) [strawpage](https://loveforvinnie.straw.page/) 
+[strawpage](https://mrskent.straw.page/)     [pronouns page](https://pronouns.cc/@loveforvinnie) [strawpage](https://loveforvinnie.straw.page/) 
