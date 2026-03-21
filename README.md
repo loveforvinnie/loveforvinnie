@@ -10,5 +10,8 @@
         
 [strawpage](https://mrskent.straw.page/)     [pronouns page](https://pronouns.cc/@loveforvinnie) [strawpage](https://loveforvinnie.straw.page/) 
 
-
+<div align="center">
+    ・———— ・ ✦✦ ・———— ・
+  
+<div align="center">
  [<img src="https://{VERCEL_DOMAIN}/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31eosxmshwcnwm3wuy63s2ai63ai)
