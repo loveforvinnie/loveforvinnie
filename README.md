@@ -1,6 +1,3 @@
-<div align="center">
-    
-[![Visits Badge]([https://github.com/loveforvinnie)](https://github.com/loveforvinnie)
 
 <div align="center">
 ・———— ・ ✦✦ ・———— ・ 
