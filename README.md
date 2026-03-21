@@ -1,6 +1,6 @@
 <div align="center">
     
-[![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://github.com/loveforvinnie)
+[![Visits Badge]([https://github.com/loveforvinnie)](https://github.com/loveforvinnie)
 
 <div align="center">
 ・———— ・ ✦✦ ・———— ・ 
