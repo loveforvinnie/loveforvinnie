@@ -10,7 +10,7 @@
 <div align="center">
     ・———— ・ ✦✦ ・———— ・
     
-<img width="150" height="150" alt="33e75ded93d6a6aacc8725ca6bd8df92-removebg-preview" src="https://github.com/user-attachments/assets/429d465f-93c7-47ae-878b-7cd63d0837ac" /> ![pony-town-📖- todd - dps - workin on git-lie-blinking-4x (1)](https://github.com/user-attachments/assets/50e4e6a8-7084-457c-9339-38aaa9267f23)
+![pony-town-📖- todd - dps - workin on git-lie-blinking-4x (1)](https://github.com/user-attachments/assets/50e4e6a8-7084-457c-9339-38aaa9267f23)
 
 <div align="center">
     ・———— ・ ✦✦ ・———— ・
@@ -21,5 +21,10 @@
     ・———— ・ ✦✦ ・———— ・
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eosxmshwcnwm3wuy63s2ai63ai&cover_image=true&theme=default&show_offline=false&background_color=000b11&interchange=false&profanity=false&bar_color=f4d7ae&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+    ・———— ・ ✦✦ ・———— ・
+
+<img width="150" height="150" alt="33e75ded93d6a6aacc8725ca6bd8df92-removebg-preview" src="https://github.com/user-attachments/assets/429d465f-93c7-47ae-878b-7cd63d0837ac" /> 
+
 <div align="center">
     ・———— ・ ✦✦ ・———— ・
