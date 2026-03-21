@@ -25,6 +25,7 @@
 <div align="center">
     ・———— ・ ✦✦ ・———— ・
 
+<div align="center">
 <img width="300" height="300" alt="33e75ded93d6a6aacc8725ca6bd8df92-removebg-preview" src="https://github.com/user-attachments/assets/429d465f-93c7-47ae-878b-7cd63d0837ac" /> 
 
 <div align="center">
