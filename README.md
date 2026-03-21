@@ -14,4 +14,4 @@
     ・———— ・ ✦✦ ・———— ・
   
 <div align="center">
- [<img src="https://{VERCEL_DOMAIN}/api/spotify" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31eosxmshwcnwm3wuy63s2ai63ai)
+ <img src="https://{VERCEL_DOMAIN}/api/spotify" alt="codeSTACKr Spotify Playing" width="350" /(https://open.spotify.com/user/31eosxmshwcnwm3wuy63s2ai63ai)
