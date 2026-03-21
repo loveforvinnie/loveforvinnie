@@ -10,6 +10,9 @@
     
 ![pony-town-📖- todd - dps - workin on git-lie-blinking-4x (1)](https://github.com/user-attachments/assets/50e4e6a8-7084-457c-9339-38aaa9267f23)
 
+<div align="center">
+    ・———— ・ ✦✦ ・———— ・
+    
 [strawpage](https://mrskent.straw.page/)     [pronouns page](https://pronouns.cc/@loveforvinnie) [strawpage](https://loveforvinnie.straw.page/) 
 
 <div align="center">
