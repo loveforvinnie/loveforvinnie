@@ -10,7 +10,7 @@
 <div align="center">
     ・———— ・ ✦✦ ・———— ・
     
-<img width="500" height="500" alt="33e75ded93d6a6aacc8725ca6bd8df92-removebg-preview" src="https://github.com/user-attachments/assets/429d465f-93c7-47ae-878b-7cd63d0837ac" /> ![pony-town-📖- todd - dps - workin on git-lie-blinking-4x (1)](https://github.com/user-attachments/assets/50e4e6a8-7084-457c-9339-38aaa9267f23)
+<img width="200" height="200" alt="33e75ded93d6a6aacc8725ca6bd8df92-removebg-preview" src="https://github.com/user-attachments/assets/429d465f-93c7-47ae-878b-7cd63d0837ac" /> ![pony-town-📖- todd - dps - workin on git-lie-blinking-4x (1)](https://github.com/user-attachments/assets/50e4e6a8-7084-457c-9339-38aaa9267f23)
 
 <div align="center">
     ・———— ・ ✦✦ ・———— ・
