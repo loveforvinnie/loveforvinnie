@@ -7,7 +7,8 @@
 
 <div align="center">
     ・———— ・ ✦✦ ・———— ・
-        
+![pony-town-📖- todd - dps - workin on git-trot-blinking-4x (1)](https://github.com/user-attachments/assets/7a0bd293-39e9-4f27-ab73-ccb0a27ab6a2)
+
 [strawpage](https://mrskent.straw.page/)     [pronouns page](https://pronouns.cc/@loveforvinnie) [strawpage](https://loveforvinnie.straw.page/) 
 
 <div align="center">
