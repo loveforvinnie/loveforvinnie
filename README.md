@@ -14,3 +14,5 @@
     ・———— ・ ✦✦ ・———— ・
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31eosxmshwcnwm3wuy63s2ai63ai&cover_image=true&theme=default&show_offline=false&background_color=000b11&interchange=false&profanity=false&bar_color=f4d7ae&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+    ・———— ・ ✦✦ ・———— ・
