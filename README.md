@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**loveforvinnie/loveforvinnie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+    ・———— ・ ✦୨୧✦ ・———— ・ 
+    <div align="center">
+vivi    .    16    .    c+h
+<div align="center">
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/dedbc829-d5be-4f7d-a67d-c7fcc2504796" />
+<div align="center">
+  ・———— ・ ✦୨୧✦ ・———— ・ 
+    <div align="center">
+[strawpage](https://mrskent.straw.page/) [pronouns page](https://pronouns.cc/@loveforvinnie) [strawpage](https://loveforvinnie.straw.page/)
