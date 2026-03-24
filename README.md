@@ -45,7 +45,7 @@
     <div align="center">
 𝑾𝒉𝒆𝒓𝒆 𝒆𝒗𝒆𝒓 𝒔𝒉𝒆 𝒎𝒂𝒚 𝒃𝒆
 
-    <div align="center">
+ <div align="center">
 
 
 <svg width="460" height="152" xmlns="http://www.w3.org/2000/svg">
@@ -57,7 +57,7 @@
         box-sizing: border-box;
       }
       
-      .spotify-embed-container {
+ .spotify-embed-container {
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
         background-color: #181818;
         border-radius: 8px;
@@ -69,7 +69,7 @@
         height: 152px;
       }
 
-      .album-cover-container {
+  .album-cover-container {
         flex-shrink: 0;
         width: 120px;
         height: 120px;
@@ -78,13 +78,13 @@
         background-color: #282828;
       }
 
-      .album-cover {
+  .album-cover {
         width: 100%;
         height: 100%;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
       }
 
-      .track-info-container {
+  .track-info-container {
         flex: 1;
         display: flex;
         flex-direction: column;
@@ -92,14 +92,14 @@
         height: 120px;
       }
 
-      .track-details {
+  .track-details {
         flex: 1;
         display: flex;
         flex-direction: column;
         justify-content: center;
       }
 
-      .track-name {
+   .track-name {
         color: #ffffff;
         font-size: 18px;
         font-weight: 700;
@@ -107,21 +107,21 @@
         margin-bottom: 4px;
       }
 
-      .artist-name {
+  .artist-name {
         color: #b3b3b3;
         font-size: 14px;
         font-weight: 400;
         line-height: 20px;
       }
 
-      .spotify-logo-container {
+  .spotify-logo-container {
         display: flex;
         align-items: center;
         gap: 6px;
         margin-top: 8px;
       }
 
-      .status-text {
+   .status-text {
         font-size: 11px;
         font-weight: 600;
         text-transform: uppercase;
@@ -129,7 +129,7 @@
         color: #1db954;
       }
 
-      .progress-bar-bg {
+  .progress-bar-bg {
         width: 100%;
         height: 4px;
         background-color: #404040;
@@ -138,13 +138,13 @@
         margin-bottom: 6px;
       }
 
-      .progress-bar-fill {
+  .progress-bar-fill {
         height: 100%;
         background-color: #1db954;
         width: 45%;
       }
 
-      .progress-times {
+  .progress-times {
         display: flex;
         justify-content: space-between;
         color: #a7a7a7;
